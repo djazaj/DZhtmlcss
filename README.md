@@ -1,4 +1,4 @@
 # DZhtmlcss
 
 
-https://djazaj.github.io/DZhtmlcss/
+https://rawgit.com/djazaj/DZhtmlcss/main/index.html
