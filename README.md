@@ -1,4 +1,4 @@
 # DZhtmlcss
 
 
-https://rawgit.com/djazaj/DZhtmlcss/main/index.html
+https://cdn.rawgit.com/djazaj/DZhtmlcss/main/index.html
