@@ -1,2 +1,2 @@
 # DZhtmlcss
-https://github.com/djazaj/DZhtmlcss/index.html
+https://rawgit.com/djazaj/DZhtmlcss/index.html
